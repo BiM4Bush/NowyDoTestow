@@ -1,0 +1,31 @@
+{ 
+    int num, suma; 
+     
+    printf("Podaj dowoln¹ liczbê: "); 
+    scanf(" %d", &num); 
+     
+    suma = sum(num); 
+    printf("Suma cyfr podanej liczby wynosi: %d", suma); 
+    return 0; 
+}
+
+
+
+
+
+{
+    int liczba,suma;
+    suma=0;
+    do
+    {
+        printf("Podaj liczbe : ",liczba);
+        scanf("%d",&liczba);
+        liczba=suma+liczba%10;
+        suma+suma/10;
+        printf("Suma cyfr podanej liczby : %d ",suma);
+    }while(suma!=0);
+
+
+    getchar();
+    return 0;
+}
