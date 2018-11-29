@@ -4,7 +4,7 @@
     printf("Podaj dowoln¹ liczbê: "); 
     scanf(" %d", &num); 
      
-    suma = sum(num); 
+    suma= sum(num); 
     printf("Suma cyfr podanej liczby wynosi: %d", suma); 
     return 0; 
 }
