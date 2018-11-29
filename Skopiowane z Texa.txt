@@ -1,0 +1,19 @@
+\begin{tabular}{|r|r|l|l|} \hline
+Litera & Sposób zapisu w \LaTeX-ie & Litera & Sposób zapisu w \LaTeX-ie \\ \hline
+$ \alpha $ & $ \backslash alpha $ & $ \beta $ & $ \backslash $ beta \\ \hline
+$ \gamma $ & $ \backslash gamma $ & $ \delta $ & $ \backslash $ delta \\ \hline
+$ \epsilon $ & $ \backslash $ epsilon & $ \varepsilon $ & $ \backslash $ varepsilon \\ \hline
+$ \zeta $  & $ \backslash $ zeta & $ \eta $ & $ \backslash $ eta \\ \hline
+$ \theta $ & $ \backslash $ theta & $ \vartheta $ & $ \backslash $ vartheta \\ \hline
+$ \iota $ & $ \backslash $ iota & $ \kappa $ & $ \backslash $ kappa \\ \hline
+$ \lambda $ & $ \backslash $ lambda & $ \mu $ & $ \backslash $ mu \\ \hline 
+$ \nu $ & $ \backslash $ nu & $ \xi $ & $ \backslash $ xi \\ \hline
+$ \o $ & $ \backslash $ o & $ \pi $ & $ \backslash $ pi \\ \hline
+$ \varpi $ & $ \backslash $ varpi & $ \rho $ & $ \backslash $ rho \\ \hline
+$ \varrho $ & $ \backslash $ varrho & $ \sigma $ & $ \backslash $ sigma \\ \hline
+$ \varsigma $ & $ \backslash $ varsigma & $ \tau $ & $ \backslash $ tau \\ \hline
+$ \upsilon $ & $ \backslash $ upsilon & $ \phi $ & $ \backslash $ phi \\ \hline
+$ \varphi $ & $ \backslash $ varphi & $ \chi $ & $ \backslash $ chi \\ \hline
+$ \psi $ & $ \backslash $ psi & $ \omega $ & $ \backslesh $ omega \\ \hline
+
+\end{tabular}
